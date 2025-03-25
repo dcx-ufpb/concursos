@@ -1,0 +1,9 @@
+# Diretório gerado pelo MkDocs
+/site/
+
+# Arquivos específicos do macOS
+.DS_Store
+
+# Ambiente virtual (caso use venv local)
+venv/
+.env/
