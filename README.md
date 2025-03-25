@@ -1,2 +1,1 @@
-# concursos
-Site para os concursos do DCX
+# Site para os concursos do DCX
