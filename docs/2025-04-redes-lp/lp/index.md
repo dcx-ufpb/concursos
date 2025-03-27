@@ -3,14 +3,14 @@
 ## Banca examinadora
 
 ### TITULARES:
-Prof. Tácito Trindade de Araújo Tiburtino Neves - UFPB (Presidente)
-Profa. Ayla Débora Dantas de Souza Rebouças - UFPB
-Profa. Renata Viegas de Figueredo - UFPB
+Prof. Tácito Trindade de Araújo Tiburtino Neves - UFPB (Presidente)<br>
+Profa. Ayla Débora Dantas de Souza Rebouças - UFPB<br>
+Profa. Renata Viegas de Figueredo - UFPB<br>
 
 ### SUPLENTES:
-Prof. Rodrigo Rebouças de Almeida - UFPB
-Prof. Marcus Williams Aquino de Carvalho - UFPB
-Profa. Ana Liz Souto Oliveira de Araújo- UFPB
+Prof. Rodrigo Rebouças de Almeida - UFPB<br>
+Prof. Marcus Williams Aquino de Carvalho - UFPB<br>
+Profa. Ana Liz Souto Oliveira de Araújo- UFPB<br>
 
 ## Inscrições deferidas
 
