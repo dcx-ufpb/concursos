@@ -1,6 +1,6 @@
 # Linguagem de Programação
 
-### CONTEÚDO:
+### CONTEÚDO
 01. Paradigmas de Programação – Comparação entre os paradigmas imperativo, funcional, orientado a objetos e lógico, com exemplos práticos;<br>
 02. Estruturas de Controle e Fluxo de Execução – Comandos condicionais, laços de repetição e controle de fluxo em diferentes linguagens;<br>
 03. Tipos de Dados, Variáveis e Escopo – Tipagem estática vs. dinâmica, imutabilidade, escopo léxico e gerenciamento de memória;<br>
