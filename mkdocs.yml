@@ -1,7 +1,7 @@
 site_name: "Concursos DCX/CCAE/UFPB"
 docs_dir: "docs"
 theme:
-  name: material
+  name: ivory
   logo: images/logo.png
   palette:
     # Palette toggle for light mode
