@@ -31,4 +31,5 @@ plugins:
   - awesome-pages
 markdown_extensions:
   - codehilite
-
+extra_javascript:
+  - js/google-analytics.js
