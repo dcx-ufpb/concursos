@@ -3,7 +3,7 @@
 
 **⚠️ [Acesse aqui o edital](EDITAL 17_2025-ProfSubstituto.pdf)**
 
-**⚠️ ATENÇÃO! Se alguma informação divergir entre o que está informado nesta página e o que está no [edital](EDITAL 17_2025-ProfSubstituto.pdf), considere a informação do edital e, por favor, informe a divergência à comissão do concurso: [concursos@dcx.ufpb.br](concursos@dcx.ufpb.br)**
+**⚠️ ATENÇÃO! Se alguma informação divergir entre o que está informado nesta página e o que está no [edital](EDITAL 17_2025-ProfSubstituto.pdf), considere a informação do edital e, por favor, informe a divergência à comissão do concurso: [concursos@dcx.ufpb.br](mailto:concursos@dcx.ufpb.br)**
 
 ---
 

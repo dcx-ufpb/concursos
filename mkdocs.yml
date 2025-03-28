@@ -2,6 +2,7 @@ site_name: "Concursos DCX/CCAE/UFPB"
 docs_dir: "docs"
 theme:
   name: ivory
+  custom_dir: overrides
   logo: images/logo.png
   palette:
     # Palette toggle for light mode
@@ -31,5 +32,3 @@ plugins:
   - awesome-pages
 markdown_extensions:
   - codehilite
-extra_javascript:
-  - js/google-analytics.js
