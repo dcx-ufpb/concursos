@@ -61,13 +61,7 @@ Podem solicitar:
 - Inscritos no **CadÚnico** e membros de família de baixa renda;  
 - **Doadores de medula óssea**, com documentação comprobatória.
 
-## Remuneração
 
-| Regime | Vencimento Básico | Mestrado | Doutorado |
-|--------|-------------------|----------|-----------|
-| T-20   | R$ 3.090,40       | +R$ 609,40 | +R$ 1.401,62 |
-
-> Inclui auxílio-alimentação conforme legislação vigente.
 
 ## Observações Finais
 
