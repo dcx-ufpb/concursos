@@ -1,5 +1,11 @@
 # Concurso para Professor Substituto – Departamento de Ciências Exatas (CCAE/UFPB)
 
+
+**[Acesse aqui o edital](EDITAL 17_2025-ProfSubstituto.pdf)**
+
+**ATENÇÃO! SE ALGUMA INFORMAÇÃO DIVERGIR ENTRE O QUE ESTÁ NESTA PÁGINA E O QUE ESTÁ NO EDITAL, CONSIDERE A INFORMAÇÃO DO EDITAL E, POR FAVOR, INFORME À COMISSÃO DO CONCURSO: concursos@dcx.ufpb.br**
+
+
 ## Informações Gerais
 
 Este concurso visa à contratação de **Professores Substitutos** para o **Departamento de Ciências Exatas (DCX)** do **Centro de Ciências Aplicadas e Educação (CCAE)** da **UFPB – Campus IV (Rio Tinto/PB)**.
