@@ -35,7 +35,7 @@ Este concurso visa à contratação de **Professores Substitutos** para o **Depa
 
 | Etapa                         | Data                       |
 |------------------------------|----------------------------|
-| **Prova Didática**           | 29/04/2025                 |
+| **Prova Didática**           | 30/04/2025                 |
 | **Prova de Títulos**         | 05/05/2025                 |
 | **Resultado Preliminar**     | 09/05/2025                 |
 
