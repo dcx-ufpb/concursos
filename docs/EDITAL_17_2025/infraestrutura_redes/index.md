@@ -26,6 +26,19 @@ Prof. Joelson Nogueira de Carvalho - UFPB<br>
 
 ## Inscrições deferidas
 
+## Sorteio do Tema e Ordem da Prova Didática
+
+Local do Sorteio: Sala das Coordenações e Chefias do DCX
+
+Horário do Sorteio: 08:00
+
+Data do Sorteio: 29-04-2025
+
+### Tema Sorteado
+A ser definido
+### Ordem e Horário das Apresentações
+A ser definido
+
 ## Resultado da prova didática
 
 ## Resultado da prova de títulos
