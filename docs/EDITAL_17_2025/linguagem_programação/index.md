@@ -28,7 +28,7 @@ Profa. Ana Liz Souto Oliveira de Araújo- UFPB<br>
 
 ## Sorteio do Tema e Ordem da Prova Didática
 
-Local do Sorteio: Sala das Coordenações e Chefias do DCX<br>
+Local do Sorteio: Sala do Laboratório de Eng. de Software Aplicada - Ayty<br>
 Horário do Sorteio: 08:00<br>
 Data do Sorteio: 29-04-2025
 
