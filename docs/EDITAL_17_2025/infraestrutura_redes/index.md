@@ -25,6 +25,12 @@ Prof. Alexandre Scaico - UFPB<br>
 Prof. Joelson Nogueira de Carvalho - UFPB<br>
 
 ## Inscrições deferidas
+GUSTAVO DIAS DA SILVA
+IVONILDO PEREIRA GOMES NETO
+JOSE RAUL DE BRITO ANDRADE
+LUCAS DA SILVA CRUZ
+RAFAEL DE BRITO CÂNDIDO GOMES
+
 
 ## Sorteio do Tema e Ordem da Prova Didática
 
