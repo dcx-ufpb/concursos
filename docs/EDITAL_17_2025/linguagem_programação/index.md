@@ -26,6 +26,9 @@ Profa. Ana Liz Souto Oliveira de Araújo- UFPB<br>
 
 ## Inscrições deferidas
 
+- ANDERSON FERNANDO VIEIRA DA BOA MORTE
+- DANIEL BAPTISTA VIO
+
 ## Sorteio do Tema e Ordem da Prova Didática
 
 Local do Sorteio: Sala do Laboratório de Eng. de Software Aplicada - Ayty<br>
