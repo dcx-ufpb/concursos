@@ -29,14 +29,21 @@ Profa. Ana Liz Souto Oliveira de Araújo- UFPB<br>
 ## Sorteio do Tema e Ordem da Prova Didática
 
 Local do Sorteio: Sala do Laboratório de Eng. de Software Aplicada - Ayty<br>
-Horário do Sorteio: 08:00<br>
+Horário do Sorteio: 08:00h<br>
 Data do Sorteio: 29-04-2025
+Observação: O sorteio pode ser acompanhado presencialmente ou por meio de videochamada utilizando o seguinte link: [https://meet.google.com/itt-rijq-mbo](https://meet.google.com/itt-rijq-mbo).
 
 ### Tema Sorteado
 A ser definido
 
 ### Ordem e Horário das Apresentações
 A ser definido
+
+## Prova didática 
+
+A prova didática terá início 24h após o sorteio, estando previstas para o dia 30/04/2025 as 08:00h.<br>
+A ordem das apresentações e respectivos horários serão disponibilizadas após o sorteio.<br>
+As provas didáticas serão realizadas no Campus IV em Rio Tinto, na sala RC 206 (Laboratório 5 do bloco de laboratórios dos Cursos de Computação e Sistemas de Informação).
 
 ## Resultado da prova didática
 
