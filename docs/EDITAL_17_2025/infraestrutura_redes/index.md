@@ -75,7 +75,7 @@ Email para envio: daniel@dcx.ufpb.br com cópia para concursos@dcx.ufpb.br
 
 ### Sobre a chegada ao local de prova
 
-Uma vez que o material já será entregue previamente pelo candidato, a sua chegada ao local de prova só precisa ser próximo ao horário de sua apresentação para fins de facilitar a logística e planejamento de todos e evitar esperars excessivas. 
+Uma vez que o material já será entregue previamente pelo candidato, a sua chegada ao local de prova só precisa ser próximo ao horário de sua apresentação para fins de facilitar a logística e planejamento de todos e evitar esperas excessivas. 
 
 
 ### Resultado da prova didática
