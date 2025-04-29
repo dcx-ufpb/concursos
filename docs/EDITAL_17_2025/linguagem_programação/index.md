@@ -37,10 +37,13 @@ Data do Sorteio: 29-04-2025
 Observação: O sorteio pode ser acompanhado presencialmente ou por meio de videochamada utilizando o seguinte link: [https://meet.google.com/itt-rijq-mbo](https://meet.google.com/itt-rijq-mbo).
 
 ### Tema Sorteado
-A ser definido
+
+10. Padrões de Projeto para Software Orientado a Objetos - Padrões e suas aplicações práticas.
 
 ### Ordem e Horário das Apresentações
-A ser definido
+
+1. DANIEL BAPTISTA VIO - 08:36h
+2. ANDERSON FERNANDO VIEIRA DA BOA MORTE - 10:00h
 
 ## Prova didática 
 
