@@ -69,6 +69,7 @@ Laboratório 03 -  SALA RC 204 (CCAE)
 ### Instruções sobre envio de apresentações
 
 Caso o candidato venha a utilizar apresentação em slides ou algum outro tipo de material didático, deverá remeter a comissão até às 08h29min do dia 30 de Abril. O material a ser utilizado durante a aula deve ser exatamente o enviado.
+Email para envio: daniel@dcx.ufpb.br com cópia para concursos@dcx.ufpb.br
 
 *OBS: O plano de aula deve ser entregue no início da prova didática conforme rege a resolução CONSEPE 17/2017.*
 
