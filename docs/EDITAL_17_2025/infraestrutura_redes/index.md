@@ -35,8 +35,9 @@ LUCAS DA SILVA CRUZ
 
 RAFAEL DE BRITO CÂNDIDO GOMES
 
+## Prova Didática
 
-## Sorteio do Tema e Ordem da Prova Didática
+### Sorteio do Tema e Ordem da Prova Didática
 
 Local do Sorteio: Sala das Coordenações e Chefias do DCX
 
@@ -45,11 +46,38 @@ Horário do Sorteio: 08:00
 Data do Sorteio: 29-04-2025
 
 ### Tema Sorteado
-A ser definido
-### Ordem e Horário das Apresentações
-A ser definido
 
-## Resultado da prova didática
+Monitoramento e Gerenciamento de Redes – Uso de ferramentas como Nagios, Zabbix, Wireshark e SNMP para análise de tráfego e gerenciamento de desempenho;<br>
+
+### Ordem e Horário das Apresentações
+
+Raul de Brito Cândido Gomes - 08h30
+
+Ivonildo Pereira Gomes Neto - 09h30
+
+Gustavo Dias da Silva - 10h30
+
+José Raul de Brito Andrade - 13h00
+
+Lucas da Silva Cruz - 14h00
+
+### Local de Realização de Prova Didática
+
+Bloco de Laboratórios do Curso de Sistemas da Informação e Licenciatura em Computação
+Laboratório 03 -  SALA RC 204 (CCAE)
+
+### Instruções sobre envio de apresentações
+
+Caso o candidato venha a utilizar apresentação em slides ou algum outro tipo de material didático, deverá remeter a comissão até às 08h29min do dia 30 de Abril. O material a ser utilizado durante a aula deve ser exatamente o enviado.
+
+*OBS: O plano de aula deve ser entregue no início da prova didática conforme rege a resolução CONSEPE 17/2017.*
+
+### Sobre a chegada ao local de prova
+
+Uma vez que o material já será entregue previamente pelo candidato, a sua chegada ao local de prova só precisa ser próximo ao horário de sua apresentação para fins de facilitar a logística e planejamento de todos e evitar esperars excessivas. 
+
+
+### Resultado da prova didática
 
 ## Resultado da prova de títulos
 
