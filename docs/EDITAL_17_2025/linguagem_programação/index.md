@@ -38,7 +38,7 @@ Observação: O sorteio pode ser acompanhado presencialmente ou por meio de vide
 
 ### Tema Sorteado
 
-10. Padrões de Projeto para Software Orientado a Objetos - Padrões e suas aplicações práticas.
+- Tema 10: Padrões de Projeto para Software Orientado a Objetos - Padrões e suas aplicações práticas.
 
 ### Ordem e Horário das Apresentações
 
