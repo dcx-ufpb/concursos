@@ -24,9 +24,9 @@ Prof. Rodrigo Rebouças de Almeida - UFPB<br>
 Prof. Marcus Williams Aquino de Carvalho - UFPB<br>
 Profa. Ana Liz Souto Oliveira de Araújo- UFPB<br>
 
-## Inscrições deferidas
+## Inscrições deferidas (divulgação em 28/04/2025)
 
-- ANDERSON FERNANDO VIEIRA DA BOA MORTE
+- ANDERSON FERNANDO VIEIRA DA BOA MORTE (Candidato optou por concorrer a vaga por cota destinada a pessoas pretas ou pardas. Informação divulgada segundo item 4.6 do edital.)
 - DANIEL BAPTISTA VIO
 
 ## Sorteio do Tema e Ordem da Prova Didática
