@@ -51,7 +51,7 @@ Monitoramento e Gerenciamento de Redes – Uso de ferramentas como Nagios, Zabbi
 
 ### Ordem e Horário das Apresentações
 
-Raul de Brito Cândido Gomes - 08h30
+Rafael de Brito Cândido Gomes - 08h30
 
 Ivonildo Pereira Gomes Neto - 09h30
 
