@@ -78,7 +78,16 @@ Email para envio: daniel@dcx.ufpb.br com cópia para concursos@dcx.ufpb.br
 Uma vez que o material já será entregue previamente pelo candidato, a sua chegada ao local de prova só precisa ser próximo ao horário de sua apresentação para fins de facilitar a logística e planejamento de todos e evitar esperas excessivas. 
 
 
-### Resultado da prova didática
+## Resultado da prova didática (divulgação em 30/04/2025)
+
+| CANDIDATO  | NOTA |
+| ------------- | ------------- |
+| Gustavo Dias da Silva | 95,33 |
+| Lucas da Silva Cruz | 91,00 |
+| Ivonildo Pereira Gomes Neto | 70,00 |
+| Rafael de Brito Cândido Gomes  | ELIMINADO |
+| José Raul de Brito Andrade  | ELIMINADO  |
+
 
 ## Resultado da prova de títulos
 
