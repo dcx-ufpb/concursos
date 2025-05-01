@@ -51,7 +51,12 @@ Sorteio finalizado: 29/04/2025 às 08:36h
 A prova didática terá início 24h após o sorteio, dia 30/04/2025 as 08:36h.<br>
 As provas didáticas serão realizadas no Campus IV em Rio Tinto, na sala RC 206 (Laboratório 5 do bloco de laboratórios dos Cursos de Computação e Sistemas de Informação).
 
-## Resultado da prova didática
+## Resultado da prova didática (divulgação em 30/04/2025)
+
+| CANDIDATO  | NOTA |
+| ------------- | ------------- |
+| ANDERSON FERNANDO VIEIRA DA BOA MORTE | 88,33 |
+| DANIEL BAPTISTA VIO  | ELIMINADO  |
 
 ## Resultado da prova de títulos
 
