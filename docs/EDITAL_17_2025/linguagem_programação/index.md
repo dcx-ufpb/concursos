@@ -58,6 +58,14 @@ As provas didáticas serão realizadas no Campus IV em Rio Tinto, na sala RC 206
 | ANDERSON FERNANDO VIEIRA DA BOA MORTE | 88,33 |
 | DANIEL BAPTISTA VIO  | ELIMINADO  |
 
-## Resultado da prova de títulos
+## Resultado da prova de títulos (divulgação em 06/05/2025)
 
-## Resultado final
+| CANDIDATO  | PONTUAÇÃO TÍTULOS | NOTA TÍTULOS |
+| ------------- | ------------- | ------------- |
+| ANDERSON FERNANDO VIEIRA DA BOA MORTE | 100,00 |
+
+## Resultado final (divulgação em 06/05/2025)
+
+| CANDIDATO  | PROVA DIDÁTICA | PROVA DE TÍTULOS | NOTA FINAL | CLASSIFICAÇÃO 
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| ANDERSON FERNANDO VIEIRA DA BOA MORTE | 88,33 | 100,00 | 88,20 | APROVADO E CLASSIFICADO |
