@@ -62,7 +62,7 @@ As provas didáticas serão realizadas no Campus IV em Rio Tinto, na sala RC 206
 
 | CANDIDATO  | PONTUAÇÃO TÍTULOS | NOTA TÍTULOS |
 | ------------- | ------------- | ------------- |
-| ANDERSON FERNANDO VIEIRA DA BOA MORTE | 100,00 |
+| ANDERSON FERNANDO VIEIRA DA BOA MORTE | 21,00 | 100,00 |
 
 ## Resultado final (divulgação em 06/05/2025)
 
