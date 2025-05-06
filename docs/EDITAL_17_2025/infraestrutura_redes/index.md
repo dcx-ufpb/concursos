@@ -89,8 +89,6 @@ Uma vez que o material já será entregue previamente pelo candidato, a sua cheg
 | José Raul de Brito Andrade  | ELIMINADO  |
 
 
-## Resultado da prova de títulos
-
 ## Resultado da prova de títulos (divulgação em 06/05/2025)
 
 | CANDIDATO  | PONTUAÇÃO TÍTULOS | NOTA TÍTULOS |
