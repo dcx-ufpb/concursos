@@ -91,4 +91,18 @@ Uma vez que o material já será entregue previamente pelo candidato, a sua cheg
 
 ## Resultado da prova de títulos
 
-## Resultado final
+## Resultado da prova de títulos (divulgação em 06/05/2025)
+
+| CANDIDATO  | PONTUAÇÃO TÍTULOS | NOTA TÍTULOS |
+| ------------- | ------------- | ------------- |
+| Gustavo Dias da Silva | 28,33 | 100,00 |
+| Ivonildo Pereira Gomes Neto | 27,30 | 97,50 |
+| Lucas da Silva Cruz | 21,60 | 77,14 |
+
+## Resultado final (divulgação em 06/05/2025)
+
+| CANDIDATO  | PROVA DIDÁTICA | PROVA DE TÍTULOS | NOTA FINAL | CLASSIFICAÇÃO 
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Gustavo Dias da Silva | 95,33 | 100,00 | 97,2 | APROVADO E CLASSIFICADO |
+| Lucas da Silva Cruz | 91,00 | 77,14 | 85,5 | CLASSIFICADO |
+| Ivonildo Pereira Gomes Neto | 70,00 | 97,50 | 81,0 | CLASSIFICADO |
